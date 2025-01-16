@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src="https://raw.githubusercontent.com/natandrade25/prompts-for-podcast-generate-by-ia/refs/heads/main/assets/Designer%20(4).jpeg">
 </p>
 
 
